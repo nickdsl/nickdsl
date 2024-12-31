@@ -18,7 +18,13 @@
 
 <br />
 
-Привет, меня зовут ВАШЕ ИМЯ, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+My name is Nikolai. That's it)
+------------------------------
+Python, bash, ansible, terraform - all that stuff for automation purposes.
+SoftEther VPN, Ocserv, OpenVPN, WireGuard - all that stuff for linking my servers together.
+Zabbix - monitoring tool.
+Postfix, Dovecot, Opendkim - mail delivery tools.
+nginx,php-fpm,redis,postgresql,nodejs - backend stuff.
 
 <br />
 
