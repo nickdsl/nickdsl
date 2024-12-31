@@ -20,11 +20,11 @@
 
 My name is Nikolai. That's it)
 ------------------------------
-Python, bash, ansible, terraform - all that stuff for automation purposes.
-SoftEther VPN, Ocserv, OpenVPN, WireGuard - all that stuff for linking my servers together.
-Zabbix - monitoring tool.
-Postfix, Dovecot, Opendkim - mail delivery tools.
-nginx,php-fpm,redis,postgresql,nodejs - backend stuff.
+Python, bash, ansible, terraform - all that stuff for automation purposes.<br />
+SoftEther VPN, Ocserv, OpenVPN, WireGuard - all that stuff for linking my servers together.<br />
+Zabbix - monitoring tool.<br />
+Postfix, Dovecot, Opendkim - mail delivery tools.<br />
+nginx,php-fpm,redis,postgresql,nodejs - backend stuff.<br />
 
 <br />
 
